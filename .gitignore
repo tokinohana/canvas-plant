@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+db.sqlite3
+.venv
+.vscode
+node_modules
+# migrations
+*.crt
+*.key
+
+.env
+.env.example
+.env.local
+.env.staging
